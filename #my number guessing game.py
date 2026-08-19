@@ -1,7 +1,7 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>page title</title>
+<title>andermax</title>
 </head>
 
 <h1>andermax web site</h1>
